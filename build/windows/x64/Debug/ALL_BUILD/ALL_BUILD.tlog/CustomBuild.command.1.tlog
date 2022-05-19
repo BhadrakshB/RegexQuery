@@ -1,0 +1,10 @@
+^C:\DATA\CODES\DART\REGEX_QUERY\WINDOWS\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/DATA/Codes/Dart/regex_query/windows -BC:/DATA/Codes/Dart/regex_query/build/windows --check-stamp-file C:/DATA/Codes/Dart/regex_query/build/windows/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

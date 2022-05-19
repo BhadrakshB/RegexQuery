@@ -1,0 +1,9 @@
+C:/DATA/Codes/Dart/regex_query/build/windows/runner/Debug/data/icudtl.dat
+C:/DATA/Codes/Dart/regex_query/build/windows/runner/Debug/flutter_windows.dll
+C:/DATA/Codes/Dart/regex_query/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/DATA/Codes/Dart/regex_query/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/DATA/Codes/Dart/regex_query/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/DATA/Codes/Dart/regex_query/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/DATA/Codes/Dart/regex_query/build/windows/runner/Debug/data/flutter_assets/NOTICES
+C:/DATA/Codes/Dart/regex_query/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/DATA/Codes/Dart/regex_query/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
